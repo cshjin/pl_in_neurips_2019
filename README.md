@@ -33,6 +33,7 @@ Apple: Private Federated Learning [link](https://neurips.cc/ExpoConferences/2019
 | title                                             | topic                | poster                                                                                                   |
 | ------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
 | Online Learning via the Differential Privacy Lens | differential privacy | spotlight #53 [link](https://drive.google.com/file/d/1VVsZEXOXgwWwrS5XlX95r8XBzAtvlL9l/view?usp=sharing) |
+|Limits of Private Learning with Access to Public Data | differential privacy | #225 [link](https://bit.ly/32PiFnq)  |
 
 ## Thursday 
 
