@@ -1,6 +1,7 @@
-# Private Learning in NeurIPS 2019
+# Privacy Preserving Machine Learning in NeurIPS 2019
 
 Subjects including, but not limited to, differential privacy, federated learning, and etc.
+
 ## Sunday
 
 ### Panels
